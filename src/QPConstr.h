@@ -199,8 +199,6 @@ private:
 	double damperOff_;
 };
 
-
-
 /**
 	* Avoid that too robot links enter into collision based on a velocity damper.
 	* For each collision pair:
